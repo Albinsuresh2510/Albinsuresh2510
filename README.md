@@ -1,58 +1,70 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Albin+Suresh;Java+%2B+Web+Developer;AI+%7C+Backend+%7C+Frontend+Engineer;Let's+Build+Something+Great+Together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hey+I'm+Albin+Suresh+👋;Java+%2B+Web+Developer;AI+%7C+Backend+%7C+Frontend+Engineer;Let’s+Build+Something+Legendary!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Albinsuresh2510&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Albinsuresh2510&label=Profile+Views&color=blueviolet&style=flat" alt="views"/>
+  <img src="https://img.shields.io/github/followers/Albinsuresh2510?style=social" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-🎯 I’m **Albin Suresh**, a developer driven by curiosity and caffeine.  
-🚀 Passionate about crafting powerful backend logic, slick UIs, and AI-integrated apps.  
+Hi there! I’m **Albin Suresh** — a full-stack dev who thinks in code and dreams in terminal.
+
+- 🚀 Crafting clean backends, smart UIs, and AI-driven workflows  
+- 🧠 Curious by nature, caffeine-powered by habit ☕  
+- 💡 Turning ideas into scalable, production-ready products
 
 ---
 
-## 🔧 Tech Stack
+## ⚒️ Tech Stack I Command
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,angular,html,css,js,ts,bootstrap,mysql,git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,angular,html,css,js,ts,bootstrap,mysql,git,github,vscode,figma,postman,tensorflow" />
 </p>
 
 ---
 
-## 💼 Projects
+## 🌟 Featured Projects
 
-- 🧠 **AI Resume Parser** — PDF parser with OCR + LLMs + experience breakdown  
-- 🌐 **Responsive Portfolio Website** — 3D visuals + animations + Angular magic  
-- 🏎️ **LAN Car Racing Game in Java** — Keyboard-controlled, multiplayer-ready
+| 🔍 Project | 💡 Description |
+|-----------|----------------|
+| 🧠 **AI Resume Parser** | LLM + OCR + spaCy + Java backend → structured resume insights |
+| 🌐 **Responsive Portfolio Website** | Interactive 3D visuals + Angular + fully responsive |
+| 🏎️ **LAN Car Racing Game** | JavaFX multiplayer game w/ keyboard controls + real-time sync |
+| 📦 **Spring Boot API Suite** | REST APIs with JWT Auth, file upload, and MySQL integration |
 
-> *More coming soon...*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Albinsuresh2510&show_icons=true&theme=radical&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albinsuresh2510&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albinsuresh2510&layout=compact&theme=radical" height="150"/>
-</p>
+> 🛠️ Currently building something even bigger 👀
 
 ---
 
-## 📬 Connect with Me
+## 📊 GitHub Stats That Slap
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Albinsuresh2510&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albinsuresh2510&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albinsuresh2510&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 📬 Let's Connect & Build
 
 - 📧 Email: [albinsuresh64@gmail.com](mailto:albinsuresh64@gmail.com)  
 - 🌍 GitHub: [github.com/Albinsuresh2510](https://github.com/Albinsuresh2510)  
-- 🌐 Portfolio: _coming soon..._  
+- 🔗 Portfolio: [albinsuresh2510.github.io/portfolio-](https://albinsuresh2510.github.io/portfolio-/)  
+- 📱 LinkedIn: _[Add yours here]_  
 
 ---
 
-> ⚡ “Code is poetry. Debugging is a form of therapy.”  
-> — Me, after fixing that one error that ruined my whole Sunday 😅
+> 💬 “Great code is clean, expressive, and dangerously fun.”  
+> — Albin Suresh
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
+</p>
