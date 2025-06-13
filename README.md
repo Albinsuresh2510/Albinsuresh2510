@@ -58,7 +58,7 @@ Hi there! I’m **Albin Suresh** — a full-stack dev who thinks in code and dre
 - 📧 Email: [albinsuresh64@gmail.com](mailto:albinsuresh64@gmail.com)  
 - 🌍 GitHub: [github.com/Albinsuresh2510](https://github.com/Albinsuresh2510)  
 - 🔗 Portfolio: [albinsuresh2510.github.io/portfolio-](https://albinsuresh2510.github.io/portfolio-/)  
-- 📱 LinkedIn: _[Add yours here]_  
+- 📱 LinkedIn: [in/albin-suresh ](https://www.linkedin.com/in/albin-suresh/)
 
 ---
 
