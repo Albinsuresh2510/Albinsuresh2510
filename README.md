@@ -1,6 +1,6 @@
 <!-- 🔥 Typing SVG Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hey+I'm+Albin+Suresh+👋;Java+%2B+Web+Developer;AI+%7C+Backend+%7C+Frontend+Engineer;Let’s+Build+Something+Legendary!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hey+I'm+Albin+Suresh+👋;Java+%2B+Web+Developer;AI+%7C+Backend+%7C+Frontend+Engineer;Let’s+Build+Something+Legendary!" />
 </h1>
 
 <!-- 🧠 View Counter + Follower Count -->
@@ -38,7 +38,6 @@ Hi there! I’m **Albin Suresh** — a full-stack dev who thinks in code and dre
 |-----------|----------------|
 | 🧠 **AI Resume Parser** | LLM + OCR + spaCy + Java backend → structured resume insights |
 | 🌐 **Responsive Portfolio Website** | Interactive 3D visuals + Angular + fully responsive |
-| 🏎️ **LAN Car Racing Game** | JavaFX multiplayer game w/ keyboard controls + real-time sync |
 | 📦 **Spring Boot API Suite** | REST APIs with JWT Auth, file upload, and MySQL integration |
 
 > 🛠️ Currently building something even bigger 👀
