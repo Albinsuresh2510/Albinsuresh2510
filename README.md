@@ -1,61 +1,58 @@
-## Hi there 👋 I'm Albin Suresh
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Albin+Suresh;Java+%2B+Web+Developer;AI+%7C+Backend+%7C+Frontend+Engineer;Let's+Build+Something+Great+Together" alt="Typing SVG" />
+</h1>
 
-🚀 Full-Stack Web Developer | ☕ Java Developer | 🧠 AI Enthusiast
-
----
-
-### 👨‍💻 About Me
-
-I'm **Albin Suresh**, a passionate and curious techie who loves building modern, intelligent applications. Whether it's designing elegant frontends or crafting powerful backends, I bring precision and energy to everything I code.
-
-- 🔭 Currently working on: AI Resume Parser + Portfolio Website  
-- 🌱 Learning: Advanced Spring Boot, Angular Animations, LLM Integration  
-- 💬 Ask me about: Java, Spring Boot, Angular, Python, AI integration  
-- ⚡ Fun fact: My coffee drinks more coffee than I do ☕🤯
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Albinsuresh2510&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views"/>
+</p>
 
 ---
 
-### 🛠 Tech Stack
+## 🙋‍♂️ About Me
 
-**Languages & Frameworks**  
-`Java` `Spring Boot` `Python` `JavaScript` `TypeScript` `HTML5` `CSS3` `Bootstrap`  
-
-**Frontend**  
-`Angular` `Tailwind CSS` `Responsive UI Design`  
-
-**Backend**  
-`Spring Boot` `REST APIs` `JWT Security` `Apache Tika`  
-
-**AI/Parsing**  
-`Python` `spaCy` `Tesseract OCR` `OpenAI/Gemini`  
-
-**Database**  
-`MySQL` `JPA/Hibernate` `SQL`  
-
-**Tools**  
-`Git` `GitHub` `VS Code` `IntelliJ` `Postman` `Figma` `CLI`  
+🎯 I’m **Albin Suresh**, a developer driven by curiosity and caffeine.  
+🚀 Passionate about crafting powerful backend logic, slick UIs, and AI-integrated apps.  
 
 ---
 
-### 📫 How to Reach Me
+## 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,angular,html,css,js,ts,bootstrap,mysql,git,github,vscode,figma,postman" />
+</p>
+
+---
+
+## 💼 Projects
+
+- 🧠 **AI Resume Parser** — PDF parser with OCR + LLMs + experience breakdown  
+- 🌐 **Responsive Portfolio Website** — 3D visuals + animations + Angular magic  
+- 🏎️ **LAN Car Racing Game in Java** — Keyboard-controlled, multiplayer-ready
+
+> *More coming soon...*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Albinsuresh2510&show_icons=true&theme=radical&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albinsuresh2510&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albinsuresh2510&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 📬 Connect with Me
 
 - 📧 Email: [albinsuresh64@gmail.com](mailto:albinsuresh64@gmail.com)  
-- 🌐 Portfolio: _Coming soon..._  
-- 💼 LinkedIn: _Drop your link if you want it added here!_
+- 🌍 GitHub: [github.com/Albinsuresh2510](https://github.com/Albinsuresh2510)  
+- 🌐 Portfolio: _coming soon..._  
 
 ---
 
-### 📊 GitHub Stats
-
-![Albin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albinsuresh2510&show_icons=true&theme=radical)
-
----
-
-### ✨ Quote I Code By
-
-> “Code is like poetry — it has rhythm, structure, and soul.”  
-> – Also me, debugging at 2am 😅
-
----
-
-*Thanks for stopping by! Drop a ⭐ on any project you vibe with. Let’s connect and build something amazing.*
+> ⚡ “Code is poetry. Debugging is a form of therapy.”  
+> — Me, after fixing that one error that ruined my whole Sunday 😅
